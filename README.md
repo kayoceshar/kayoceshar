@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Kayo Céshar</h1>
+<h1 align="center">Olá 👋, Eu sou o Kayo Céshar</h1>
 <h3 align="center">Sou Desenvolvedor em formação pelo Bootcamp de desenvolvimento web Full-Stack da Labenu, onde desenvolvemos projetos individuais e em grupos. </h3>
 
 
