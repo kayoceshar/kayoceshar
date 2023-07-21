@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Kayo Céshar</h1>
-<h3 align="center">Sou Desenvolvedor em formação pelo Bootcamp de desenvolvimento web Full-Stack da Labenu, onde desenvolvemos projetos individuais e em grupos. </h3>
+<h3 align="center">Sou Desenvolvedor Backend em formação.</h3>
 
 
 
-- 🔭 Atualmente estou trabalhando em um  projeto Back-end, onde nada mais é do que uma rede social, na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. As tecnologias utilizadas foram Typescript, Node.js, MySQL, Express.js e Knex.js. link: [Cookenu](https://github.com/kayoceshar/Cookenu)
+- 🔭 Atualmente estou estudando no Projeto Ifood com foco em Backend e o curso é ministrado pela Cubos Academy.
 
 - 🌱 Tenho estudado as seguintes tecnologias: **Node.Js, TypeScript, Express, MySQL, JavaScript, API - API Rest, HTML, CSS, React, Git, GitHub**
 
