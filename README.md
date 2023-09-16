@@ -6,7 +6,7 @@
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento web. Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e expandir meu conhecimento e estou estudando no Projeto Ifood com foco em Backend e o curso é ministrado pela Cubos Academy.
 
 📫 Contato:
-- LinkedIn: [Kayo Céshar]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/kayo-ceshar/))
+- LinkedIn: [Kayo Céshar](https://www.linkedin.com/in/kayo-ceshar/)
 - Email: [kayoceshar@hotmail.com](mailto:kayoceshar@hotmail.com)
 
 🌱 Hard Skills:
