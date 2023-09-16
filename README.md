@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 - LinkedIn: [Kayo Céshar](https://www.linkedin.com/in/kayo-ceshar/)
 - Email: [kayoceshar@hotmail.com](mailto:kayoceshar@hotmail.com)
 
-🌱 Hard Skills:
+🌱 Habilidades:
 - Linguagens de Programação: JavaScript, Java
 - Desenvolvimento Web: HTML, CSS, React, Node.js
 - Banco de Dados: SQL
