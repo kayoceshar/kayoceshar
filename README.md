@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Kayo Céshar</h1>
 <h3 align="center">Sou Desenvolvedor Backend.</h3>
 
-## Sobre mim
+👤 Sobre mim
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento web. Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e expandir meu conhecimento e estou estudando no Projeto Ifood com foco em Backend e o curso é ministrado pela Cubos Academy.
 
@@ -15,14 +15,14 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 - Banco de Dados: SQL
 - Ferramentas de Controle de Versão: Git, GitHub
 
-## Educação
+🎓 Educação
 - Bacharelado em Sistemas de Informação [Universidade Estácio]
 
-## Projetos
+💻 Projetos
 - [Cookenu](https://github.com/kayoceshar/Cookenu): Esse produto nada mais é do que uma rede social, na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. Ela possui todas as funcionalidades mais comuns em redes sociais.  
 
 
-## Experiência Profissional
+🔧 Experiência Profissional
 - Estagiário de TI [INSS] (2022 - No momento)
   - Prestando suporte técnico aos servidores da
 empresa.
@@ -30,7 +30,7 @@ empresa.
 estações de trabalho, impressoras e circuitos de telecomunicações.
   - Colaboração em equipes ágeis para atender às demandas.
 
-## Idiomas
+📢 Idiomas
 - Português (nativo)
 - Inglês (básico)
 
